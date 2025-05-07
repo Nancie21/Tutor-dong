@@ -1,3 +1,5 @@
 Nama: Clementius Edbert
 // coba kedua
 NIM : 2702325325
+// Coba ketiga
+Jurusan: Computer Science
